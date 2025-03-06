@@ -1,6 +1,14 @@
 # YOLO Image Annotation Tool
 A lightweight YOLO image annotation tool for creating and editing bounding box annotations. It supports drawing, deleting, and classifying objects with an intuitive interface. This tool allows you to efficiently label images with rectangular bounding boxes and assign classes, making it perfect for preparing training data for YOLO-based object detection models.
 
+
+
+https://github.com/user-attachments/assets/096008de-9390-40a7-8cf9-21cf5cb1d93d
+
+
+
+
+
 # Features
 * **YOLO Format Compatible**: Creates annotation files in the format required by YOLO models.
 * **Intuitive Interface**: Left-click to draw boxes, right-click to delete boxes, middle mouse button to define class.
