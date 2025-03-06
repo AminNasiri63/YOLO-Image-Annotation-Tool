@@ -16,7 +16,7 @@ A lightweight tool for creating and editing bounding box annotations in YOLO for
 # Installation
 **Prerequisites**
     
-    * Python 3.6+
+* Python 3.6+
 * Required Python packages:
     * pip install opencv-python tkinter
 
