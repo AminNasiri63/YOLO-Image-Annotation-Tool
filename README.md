@@ -31,8 +31,17 @@ git clone https://github.com/yourusername/yolo-annotation-tool.git
 ```  
 cd yolo-annotation-tool
 ```
-**3.** Install dependencies::
+**3.** Install dependencies:
 ```  
 pip install opencv-python
 ```
 Note: tkinter usually comes pre-installed with Python, but if not, you may need to install it separately.
+
+**Usage**
+
+**1.** Run the main script:
+```  
+python main.py
+```
+**2.** When prompted, select the folder containing the images you want to annotate.
+**3.** The tool will open and display the first image in the folder.
