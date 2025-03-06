@@ -99,7 +99,7 @@ After running the tool, the structure will be:
 The tool reads images from the Selected_Image_Folder and saves annotation files in the Results/Selected_Image_Folder_Name_Final directory.
 
 # License
-<u>MIT License<u>.
+MIT License.
 
 # Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
