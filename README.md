@@ -63,6 +63,6 @@ Annotations are saved in YOLO format text files with the same name as their corr
 <class_id> <x_center> <y_center> <width> <height>
 ```
 where:
-- class_id: Integer representing the class ID (0-indexed).
-- x_center, y_center: Normalized coordinates (0-1) of the center of the bounding box.
-- width, height: Normalized width and height of the bounding box (0-1).
+- ```class_id```: Integer representing the class ID (0-indexed).
+- ```x_center```, ```y_center```: Normalized coordinates (0-1) of the center of the bounding box.
+- ```width```, ```height```: Normalized width and height of the bounding box (0-1).
