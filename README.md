@@ -13,7 +13,7 @@ A lightweight tool for creating and editing bounding box annotations in YOLO for
 * Organized Output: Creates a dedicated Results folder in the same directory as your images folder
 * Persistence: Saves annotation data in text files compatible with YOLO frameworks
 
-# Installation
+## Installation
 # Prerequisites
 * Python 3.6+
 * Required Python packages:
