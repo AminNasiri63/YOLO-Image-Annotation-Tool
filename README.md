@@ -27,3 +27,11 @@ pip install opencv-python tkinter
 git clone https://github.com/yourusername/yolo-annotation-tool.git
 ```
 2. Navigate to the repository directory:
+```  
+cd yolo-annotation-tool
+```
+3. Install dependencies::
+```  
+pip install opencv-python
+```
+Note: tkinter usually comes pre-installed with Python, but if not, you may need to install it separately.
