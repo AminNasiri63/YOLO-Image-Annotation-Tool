@@ -37,7 +37,7 @@ pip install opencv-python
 ```
 Note: tkinter usually comes pre-installed with Python, but if not, you may need to install it separately.
 
-**Usage**
+# Usage
 
 **1.** Run the main script:
 ```  
