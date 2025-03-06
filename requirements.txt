@@ -1,4 +1,0 @@
-# requirements.txt
-opencv-python>=4.5.0
-# tkinter is typically included with Python installation and doesn't need to be in requirements.txt
-# but users should make sure it's available in their Python environment
