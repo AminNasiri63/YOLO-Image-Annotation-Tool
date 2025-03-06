@@ -58,7 +58,7 @@ python main.py
 - **Ctrl+Q**: Quit tool.
 
 # File Format
-Annotations are saved in YOLO format text files with the same name as their corresponding image file but with a .txt extension. Each line in the text file represents one bounding box in the format:
+Annotations are saved in YOLO format text files with the same name as their corresponding image file but with a ```.txt``` extension. Each line in the text file represents one bounding box in the format:
 ```  
 <class_id> <x_center> <y_center> <width> <height>
 ```
