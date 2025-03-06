@@ -44,4 +44,9 @@ Note: tkinter usually comes pre-installed with Python, but if not, you may need 
 python main.py
 ```
 **2.** When prompted, select the folder containing the images you want to annotate.
+
 **3.** The tool will open and display the first image in the folder.
+
+**Controls**
+
+***Left Mouse Button**:Draw a bounding box.
