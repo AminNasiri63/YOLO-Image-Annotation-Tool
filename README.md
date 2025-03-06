@@ -47,6 +47,12 @@ python main.py
 
 **3.** The tool will open and display the first image in the folder.
 
-**Controls**
+**Controls:**
 
 - **Left Mouse Button**: Draw a bounding box.
+- **Right Mouse Button**: Delete a selected bounding box.
+- **Middle Mouse Button**: Define class for the currently selected box.
+- **Ctrl+S**: Save current annotations.
+- **Ctrl+N**: Skip image without saving.
+- **Ctrl+F**: Select new folder.
+- **Ctrl+Q**: Quit tool.
