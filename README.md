@@ -22,6 +22,7 @@ A lightweight tool for creating and editing bounding box annotations in YOLO for
 pip install opencv-python tkinter
 ```
 **Setup**
+
 **1.** Clone this repository:
 ```  
 git clone https://github.com/yourusername/yolo-annotation-tool.git
