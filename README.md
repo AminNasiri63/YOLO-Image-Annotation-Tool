@@ -13,8 +13,14 @@ A lightweight tool for creating and editing bounding box annotations in YOLO for
 * Organized Output: Creates a dedicated Results folder in the same directory as your images folder
 * Persistence: Saves annotation data in text files compatible with YOLO frameworks
 
-## Installation
+# Installation
 # Prerequisites
 * Python 3.6+
 * Required Python packages:
 * pip install opencv-python tkinter
+1. Clone the repository
+2. Install dependencies
+   * Prerequisite 1: Install Node.js
+   * Prerequisite 2: Install npm
+   * Prerequisite 3: Install Git
+3. Run the application
