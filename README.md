@@ -14,7 +14,7 @@ A lightweight tool for creating and editing bounding box annotations in YOLO for
 * Persistence: Saves annotation data in text files compatible with YOLO frameworks
 
 # Installation
-   # Prerequisites
+# Prerequisites
 * Python 3.6+
 * Required Python packages:
 * pip install opencv-python tkinter
