@@ -7,9 +7,9 @@ A lightweight tool for creating and editing bounding box annotations in YOLO for
 
 # Features
 
-YOLO Format Compatible: Creates annotation files in the format required by YOLO models
-Intuitive Interface: Left-click to draw boxes, right-click to delete boxes, middle mouse button to define class
-Automatic File Handling: Automatically reads and displays existing annotations, or creates new ones as needed
-Multiple Image Format Support: Works with various image formats
-Organized Output: Creates a dedicated Results folder in the same directory as your images folder
-Persistence: Saves annotation data in text files compatible with YOLO frameworks
+* YOLO Format Compatible: Creates annotation files in the format required by YOLO models
+* Intuitive Interface: Left-click to draw boxes, right-click to delete boxes, middle mouse button to define class
+* Automatic File Handling: Automatically reads and displays existing annotations, or creates new ones as needed
+* Multiple Image Format Support: Works with various image formats
+* Organized Output: Creates a dedicated Results folder in the same directory as your images folder
+* Persistence: Saves annotation data in text files compatible with YOLO frameworks
