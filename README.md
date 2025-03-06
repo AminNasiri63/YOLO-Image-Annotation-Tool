@@ -56,3 +56,13 @@ python main.py
 - **Ctrl+N**: Skip image without saving.
 - **Ctrl+F**: Select new folder.
 - **Ctrl+Q**: Quit tool.
+
+# File Format
+Annotations are saved in YOLO format text files with the same name as their corresponding image file but with a .txt extension. Each line in the text file represents one bounding box in the format:
+```  
+<class_id> <x_center> <y_center> <width> <height>
+```
+where:
+- class_id: Integer representing the class ID (0-indexed).
+- x_center, y_center: Normalized coordinates (0-1) of the center of the bounding box.
+- width, height: Normalized width and height of the bounding box (0-1).
