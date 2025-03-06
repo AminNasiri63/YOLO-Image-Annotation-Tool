@@ -66,3 +66,14 @@ where:
 - ```class_id```: Integer representing the class ID (0-indexed).
 - ```x_center```, ```y_center```: Normalized coordinates (0-1) of the center of the bounding box.
 - ```width```, ```height```: Normalized width and height of the bounding box (0-1).
+
+# Folder Structure
+Your initial folder structure:
+
+📁 Parent_Directory/
+│
+└── 📁 Selected_Image_Folder/
+    ├── 📄 image1.jpg
+    ├── 📄 image1.txt (if already annotated)
+    ├── 📄 image2.jpg
+    └── ...
