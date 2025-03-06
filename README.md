@@ -21,7 +21,7 @@ pip install opencv-python tkinter
 
 **1.** Clone this repository:
 ```  
-git clone https://github.com/yourusername/yolo-annotation-tool.git
+git clone https://github.com/AminNasiri63/YOLO-Image-Annotation-Tool.git
 ```
 **2.** Navigate to the repository directory:
 ```  
