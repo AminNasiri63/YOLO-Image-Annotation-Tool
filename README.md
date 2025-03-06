@@ -49,4 +49,4 @@ python main.py
 
 **Controls**
 
-**\ * Left Mouse Button**: Draw a bounding box.
+- **Left Mouse Button**: Draw a bounding box.
