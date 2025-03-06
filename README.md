@@ -78,3 +78,21 @@ Your initial folder structure:
     ├── 📄 image2.jpg
     └── ...
 ```
+After running the tool, the structure will be:
+```
+📁 Parent_Directory/
+│
+├── 📁 Selected_Image_Folder/
+│   ├── 📄 image1.jpg
+│   ├── 📄 image1.txt (if already annotated)
+│   ├── 📄 image2.jpg
+│   └── ...
+│
+└── 📁 Results/
+    │
+    └── 📁 Selected_Image_Folder_Name_Final/
+        ├── 📄 image1.jpg
+        ├── 📄 image1.txt
+        ├── 📄 image2.jpg
+        └── ...
+```
