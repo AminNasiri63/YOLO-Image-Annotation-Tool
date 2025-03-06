@@ -75,7 +75,7 @@ Your initial folder structure:
 └── 📁 Selected_Image_Folder/
     ├── 📄 image1.jpg
     ├── 📄 image1.txt (if already annotated)
-    ├── 📄 image2.jpg
+    ├── 📄 image2.png
     └── ...
 ```
 After running the tool, the structure will be:
