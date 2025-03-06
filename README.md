@@ -33,7 +33,7 @@ git clone https://github.com/AminNasiri63/YOLO-Image-Annotation-Tool.git
 ```
 **2.** Navigate to the repository directory:
 ```  
-cd yolo-annotation-tool
+cd YOLO-Image-Annotation-Tool
 ```
 **3.** Install dependencies:
 ```  
