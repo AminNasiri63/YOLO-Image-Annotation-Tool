@@ -69,7 +69,7 @@ where:
 
 # Folder Structure
 Your initial folder structure:
-
+```
 📁 Parent_Directory/
 │
 └── 📁 Selected_Image_Folder/
@@ -77,3 +77,4 @@ Your initial folder structure:
     ├── 📄 image1.txt (if already annotated)
     ├── 📄 image2.jpg
     └── ...
+```
