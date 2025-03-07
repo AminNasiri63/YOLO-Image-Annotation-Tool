@@ -102,6 +102,9 @@ After running the tool, the structure will be:
 ```
 The tool reads images from the Selected_Image_Folder and saves annotation files in the Results/Selected_Image_Folder_Name_Final directory.
 
+# Limitations
+- **Box Drawing Constraints**: It is impossible to start drawing a new bounding box inside an existing box. When attempting to click inside an existing box, the tool will select or interact with that box instead of starting a new one.
+
 # License
 MIT License.
 
