@@ -56,10 +56,10 @@ python main.py
 - **Left Mouse Button**: Draw a bounding box.
 - **Right Mouse Button**: Delete a selected bounding box.
 - **Middle Mouse Button**: Define class for the currently selected box.
-- **Ctrl+S**: Save current annotations.
-- **Ctrl+N**: Skip image without saving.
-- **Ctrl+F**: Select new folder.
-- **Ctrl+Q**: Quit tool.
+- **S**: Save current annotations.
+- **N**: Skip image without saving.
+- **F**: Select new folder.
+- **Q**: Quit tool.
 
 # File Format
 Annotations are saved in YOLO format text files with the same name as their corresponding image file but with a ```.txt``` extension. Each line in the text file represents one bounding box in the format:
